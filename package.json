@@ -38,7 +38,7 @@
     "node-fetch": "^2.6.0",
     "octokat": "^0.10.0",
     "pinch-zoom-element": "^1.1.1",
-    "rollup": "^1.27.8",
+    "rollup": "^1.32.1",
     "rollup-plugin-copy": "^3.1.0",
     "rollup-plugin-node-globals": "^1.4.0",
     "rollup-plugin-terser": "^5.1.2",
