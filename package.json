@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@editorjs/table": "^1.2.0",
-    "@google-cloud/language": "^3.6.2",
+    "@google-cloud/language": "^3.8.0",
     "@google-cloud/translate": "^5.1.0",
     "@remy/webmention": "^1.4.3",
     "comlink": "^4.1.0",
