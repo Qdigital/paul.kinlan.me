@@ -43,9 +43,15 @@
     "rollup-plugin-node-globals": "^1.4.0",
     "rollup-plugin-terser": "^5.1.2",
     "sax": "^1.2.4",
-    "simple-video-editorjs": "^1.4.9"
+    "simple-video-editorjs": "^1.4.9",
+    "@snyk/protect": "latest"
   },
   "engines": {
     "node": "10.x"
-  }
+  },
+  "scripts": {
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
